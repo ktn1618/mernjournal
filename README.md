@@ -1,4 +1,4 @@
-#About this app
+# About this app
 
 ## This is a simple MERN journal app with:
  User authentication (Signup & Login)
@@ -9,7 +9,7 @@
  Deployed project to Render
  
 
-# Access the live app from here:
+## Access the live app from here:
 https://journal-1g05.onrender.com/
 ## User and Password to test:
  marcus@aurelius.com | Mothaiba123!@#
